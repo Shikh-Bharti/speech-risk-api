@@ -1,4 +1,4 @@
-python -m spacy download en_core_web_sm
+
 https://speech-risk-api-10.onrender.com/docs
 # speech-risk-api
 # 🧠 Speech Cognitive Score API
