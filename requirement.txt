@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+speechrecognition
+librosa
+numpy
+spacy
+scikit-learn
+python-multipart
